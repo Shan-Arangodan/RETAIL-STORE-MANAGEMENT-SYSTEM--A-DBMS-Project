@@ -1,4 +1,4 @@
-# RETAIL-STORE-MANAGEMENT-SYSTEM--A-DBMS-Project
+RETAIL TRACK # RETAIL-STORE-MANAGEMENT-SYSTEM--A-DBMS-Project
 
 🛍️ Retail Store Management System  
 A Python + HTML + SQL based application to manage retail operations such as inventory, sales, customers, and reporting. Designed to simplify store workflows and provide an easy-to-use interface for staff and managers.
